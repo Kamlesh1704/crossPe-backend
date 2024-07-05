@@ -12,4 +12,3 @@
 
 -- SELECT name FROM sqlite_master WHERE type='table' OR type='view';
 -- update Classes set capacity=5
-SELECT * from Bookings
